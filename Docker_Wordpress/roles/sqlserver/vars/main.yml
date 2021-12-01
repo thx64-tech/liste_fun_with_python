@@ -1,0 +1,10 @@
+---
+
+ansible_python_interpreter: auto_legacy_silent
+
+mysql_conf_dir:
+  "Ubuntu": /etc/mysql/conf.d
+
+
+
+# vars file for sqlserver
